@@ -1,0 +1,23 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #000000;
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  text-align: center;
+}
+
+.logo {
+  max-width: 200px;
+}
+
+.slogan {
+  font-size: 24px;
+  font-weight: bold;
+  margin-top: 20px;
+  color: #f2f2f2;
+}
