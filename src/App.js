@@ -7,7 +7,7 @@ import logo from "./bbb.png"; // Make sure to place your logo inside the src fol
 
 function App() {
   return (
-    <Router>
+    <Router basename="/blobubo">
       <div>
       <img src={logo} alt="Company Logo" className="logo" />
         <Routes>
