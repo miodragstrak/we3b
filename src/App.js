@@ -1,13 +1,21 @@
 import React from "react";
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import "./App.css";
+import HomePage from "./pages/HomePage";
+import ProjectsPage from "./pages/ProjectsPage";
 import logo from "./bbb.png"; // Make sure to place your logo inside the src folder
 
 function App() {
   return (
-    <div className="container">
+    <Router>
+      <div>
       <img src={logo} alt="Company Logo" className="logo" />
-      <h1 className="slogan">Building the Future with AI & Blockchain</h1>
-    </div>
+        <Routes>
+          <Route path="/" element={<HomePage />} />
+          <Route path="/projects" element={<ProjectsPage />} />
+        </Routes>
+      </div>
+    </Router>
   );
 }
 
