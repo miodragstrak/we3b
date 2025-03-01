@@ -1,5 +1,6 @@
 export const images = {
     project1: "/SDAI.png",
     project2: "/Nelutai.png",
+    project3: "/sea.png",
     logo: "/bbb.png",
-  };  
+  };

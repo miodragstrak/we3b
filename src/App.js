@@ -1,15 +1,15 @@
 import React from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
-import "./App.css";
+import "./styles/global.css";
 import HomePage from "./pages/HomePage";
 import ProjectsPage from "./pages/ProjectsPage";
-import logo from "./bbb.png"; // Make sure to place your logo inside the src folder
+import { images } from "./assets/images";
 
 function App() {
   return (
     <Router basename="/blobubo">
       <div>
-      <img src={logo} alt="Company Logo" className="logo" />
+      <img src={images.logo} alt="Company Logo" className="logo" />
         <Routes>
           <Route path="/" element={<HomePage />} />
           <Route path="/projects" element={<ProjectsPage />} />

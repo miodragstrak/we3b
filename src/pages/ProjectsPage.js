@@ -1,4 +1,5 @@
 import { images } from "../assets/images";
+import ProjectCard from "../components/ProjectCard";
 
 const projects = [
   {
