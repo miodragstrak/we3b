@@ -1,6 +1,5 @@
 import { useState } from "react";
 import "../styles/card.css";
-import "../assets/images"; 
 
 const ProjectCard = ({ project }) => {
   const [flipped, setFlipped] = useState(false);

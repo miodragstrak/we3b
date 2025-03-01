@@ -6,7 +6,9 @@ import ProjectsPage from "./pages/ProjectsPage";
 import { images } from "./assets/images";
 
 function App() {
+
   return (
+       
     <Router basename="/blobubo">
       <div>
       <img src={images.logo} alt="Company Logo" className="logo" />
