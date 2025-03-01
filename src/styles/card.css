@@ -1,0 +1,5 @@
+.card img {
+    width: 100%; /* Full width */
+    height: 200px; /* Fixed height */
+    object-fit: cover; /* Crop while maintaining aspect ratio */
+  }  
