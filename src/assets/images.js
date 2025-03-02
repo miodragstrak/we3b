@@ -1,6 +1,9 @@
+import logo from "./bbb.png";
+import project1 from "./Nelutai.png";
+import project2 from "./SDAI.png";
+
 export const images = {
-    project1: "SDAI.png",
-    project2: "Nelutai.png",
-    project3: "sea.jpg",
-    logo: "bbb.png",
-  };
+  logo,
+  project1,
+  project2
+};
