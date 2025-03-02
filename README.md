@@ -35,7 +35,13 @@ Installation
 Project Structure
 -----------------
 
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   project-folder/  │-- src/  │   ├── components/   # Reusable components  │   ├── pages/        # Page components  │   ├── assets/       # Images and other assets  │   ├── styles/       # CSS files  │   ├── App.js        # Main app component  │   ├── index.js      # Entry point  │-- public/  │-- package.json  │-- README.md   `
+/src
+  ├── assets/images  # Project images
+  ├── components     # Reusable components (Navbar, ProjectCard, etc.)
+  ├── pages          # Page components (HomePage, ProjectsPage, etc.)
+  ├── styles         # Global and component-specific styles
+  ├── App.js         # Main application file
+  ├── index.js       # Entry point of the app
 
 Usage
 -----
