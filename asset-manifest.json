@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/blobubo/static/css/main.54e77d2d.css",
-    "main.js": "/blobubo/static/js/main.42ccf819.js",
+    "main.css": "/blobubo/static/css/main.618ac3ed.css",
+    "main.js": "/blobubo/static/js/main.b188248c.js",
     "static/media/Nelutai.png": "/blobubo/static/media/Nelutai.299b532f471af7a3b3b6.png",
-    "static/media/bbb.png": "/blobubo/static/media/bbb.7e4f03db687d019f3b69.png",
+    "static/media/bbb.svg": "/blobubo/static/media/bbb.88eb01d7b12cca4d9517875d15a98071.svg",
     "index.html": "/blobubo/index.html",
-    "main.54e77d2d.css.map": "/blobubo/static/css/main.54e77d2d.css.map",
-    "main.42ccf819.js.map": "/blobubo/static/js/main.42ccf819.js.map"
+    "main.618ac3ed.css.map": "/blobubo/static/css/main.618ac3ed.css.map",
+    "main.b188248c.js.map": "/blobubo/static/js/main.b188248c.js.map"
   },
   "entrypoints": [
-    "static/css/main.54e77d2d.css",
-    "static/js/main.42ccf819.js"
+    "static/css/main.618ac3ed.css",
+    "static/js/main.b188248c.js"
   ]
 }
