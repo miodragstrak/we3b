@@ -1,20 +1,10 @@
-.card img {
-    width: 33%; /* Full width */
-    height: 100px; /* Fixed height */
-    object-fit: cover; /* Crop while maintaining aspect ratio */
-  }
-
-  /* Global styling for cards */
 .card {
   display: flex;
   flex-direction: column;
-  align-items: center;  /* Centers content inside the card */
+  align-items: center;
   justify-content: center;
   text-align: center;
-  width: 250px; /* Set a fixed width for consistency */
-  margin: 0 auto; /* Ensures the card itself is centered */
-  }
-  
-.card:hover {
-    transform: scale(1.05);
-  }
+  width: 250px; /* Fixed width */
+  max-width: 100%; /* Prevents stretching */
+  margin: 0 auto; /* Centers the card */
+}

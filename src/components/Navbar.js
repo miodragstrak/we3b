@@ -1,12 +1,14 @@
+import React from "react";
 import { Link } from "react-router-dom";
-import '../styles/navbar.css';
+import "../styles/navbar.css"; // Separate styling for navbar
 
 const Navbar = () => {
   return (
-    <nav className="bg-gray-900 text-white py-4">
-      <div className="max-w-6xl mx-auto flex justify-center items-center gap-4">
+    <nav className="navbar">
+      <div className="nav-container">
         <Link to="/" className="nav-button">Home</Link>
         <Link to="/projects" className="nav-button">Projects</Link>
+        <Link to="/about" className="nav-button">About</Link>
       </div>
     </nav>
   );
