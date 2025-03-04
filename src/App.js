@@ -8,7 +8,7 @@ import "./styles/global.css";
 function App() {
   return (
     <>
-      <Header /> {/* Fixed at the top */}
+      <Header />
       <div className="content">
         <Routes>
           <Route path="/" element={<HomePage />} />
