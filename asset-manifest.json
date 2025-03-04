@@ -1,15 +1,13 @@
 {
   "files": {
-    "main.css": "/blobubo/static/css/main.618ac3ed.css",
-    "main.js": "/blobubo/static/js/main.b188248c.js",
-    "static/media/Nelutai.png": "/blobubo/static/media/Nelutai.299b532f471af7a3b3b6.png",
-    "static/media/bbb.svg": "/blobubo/static/media/bbb.88eb01d7b12cca4d9517875d15a98071.svg",
+    "main.css": "/blobubo/static/css/main.f94c027d.css",
+    "main.js": "/blobubo/static/js/main.eef7405e.js",
     "index.html": "/blobubo/index.html",
-    "main.618ac3ed.css.map": "/blobubo/static/css/main.618ac3ed.css.map",
-    "main.b188248c.js.map": "/blobubo/static/js/main.b188248c.js.map"
+    "main.f94c027d.css.map": "/blobubo/static/css/main.f94c027d.css.map",
+    "main.eef7405e.js.map": "/blobubo/static/js/main.eef7405e.js.map"
   },
   "entrypoints": [
-    "static/css/main.618ac3ed.css",
-    "static/js/main.b188248c.js"
+    "static/css/main.f94c027d.css",
+    "static/js/main.eef7405e.js"
   ]
 }
