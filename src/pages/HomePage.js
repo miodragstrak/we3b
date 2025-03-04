@@ -5,8 +5,11 @@ import "../styles/homepage.css";
 const HomePage = () => {
   return (
     <div className="homepage">
-      <h1 className="slogan">Welcome to Our Website</h1>
-      <p className="text">Driving digital innovation to empower businesses with smarter, more efficient solutions. We specialize in AI-driven digital transformation, process automation, and workflow optimization, enabling seamless operations. At the forefront of technology, we pioneer blockchain-powered IoT and AI solutions that shape the future of connectivity, security, and intelligent automation.</p>
+      <h1 className="slogan"> Welcome to the World of Digital Innovation </h1>
+      <p className="text"> Empowering businesses with AI-driven automation, blockchain, and IoT to build a smarter, more connected future. </p>
+      <p className="text"> We specialize in digital transformation, process automation, and workflow optimization, 
+        ensuring seamless operations. At the cutting edge of technology, we develop innovative solutions that enhance connectivity, 
+        security, and intelligent automation for a future-ready business landscape.</p>
     </div>
   );
 };
