@@ -5,6 +5,8 @@
     align-items: center;
     background-color: #000000;
     padding: 1rem;
+    margin-bottom: 20px;
+    padding-bottom: 0;
   }
   
   /* Navigation buttons */
