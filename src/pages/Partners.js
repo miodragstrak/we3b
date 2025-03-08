@@ -3,8 +3,8 @@ import "../styles/partners.css";
 import { images } from "../assets/images";
 
 const partners = [
-  { id: 1, name: "Partner 1", logo: images.partner1},
-  { id: 2, name: "Partner 2", logo: "/images/partner2.png" },
+  { id: 1, name: "Ledger Leopard", logo: images.partner1},
+  { id: 2, name: "Stay Direct", logo: images.partner2},
   { id: 3, name: "Partner 3", logo: "/images/partner3.png" },
   { id: 4, name: "Partner 4", logo: "/images/partner4.png" },
   { id: 5, name: "Partner 5", logo: "/images/partner5.png" },
