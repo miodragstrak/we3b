@@ -35,7 +35,7 @@ Installation
 Project Structure
 -----------------
 
-/src
+/src \
   ├── assets/images  # Project images \
   ├── components     # Reusable components (Navbar, ProjectCard, etc.) \
   ├── pages          # Page components (HomePage, ProjectsPage, etc.) \
