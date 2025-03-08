@@ -7,6 +7,7 @@ import project4 from "./tesla.jpeg";
 import project5 from "./RTI.jpeg";
 import partner1 from "./LedgerLeopard.png";
 import partner2 from "./StayDirect.png";
+import partner3 from "./StayRafa.png";
 
 export const images = {
   bbblogo,
@@ -17,5 +18,6 @@ export const images = {
   project4,
   project5,
   partner1,
-  partner2
+  partner2,
+  partner3
 };
