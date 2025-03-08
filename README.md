@@ -1,5 +1,5 @@
-Project Name
-============
+BBB x LL Company Website Project
+================================
 
 Description
 -----------
@@ -35,13 +35,13 @@ Installation
 Project Structure
 -----------------
 
-/src
-  ├── assets/images  # Project images
-  ├── components     # Reusable components (Navbar, ProjectCard, etc.)
-  ├── pages          # Page components (HomePage, ProjectsPage, etc.)
-  ├── styles         # Global and component-specific styles
-  ├── App.js         # Main application file
-  ├── index.js       # Entry point of the app
+/src \
+  ├── assets/images  # Project images \
+  ├── components     # Reusable components (Navbar, ProjectCard, etc.) \
+  ├── pages          # Page components (HomePage, ProjectsPage, etc.) \
+  ├── styles         # Global and component-specific styles \
+  ├── App.js         # Main application file \
+  ├── index.js       # Entry point of the app \
 
 Usage
 -----
@@ -58,7 +58,8 @@ Deployment
 
 To deploy the project, use:
 
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   npm run build   `
+`   npm run build   `
+`   npm run deploy   `
 
 Then, upload the build/ directory to a hosting service like Vercel, Netlify, or GitHub Pages.
 
