@@ -7,7 +7,10 @@ import project4 from "./tesla.jpeg";
 import project5 from "./RTI.jpeg";
 import partner1 from "./LedgerLeopard.png";
 import partner2 from "./StayDirect.png";
-import partner3 from "./StayRafa.png";
+import partner3 from "./UNDP.png";
+import partner4 from "./ReSPA.png";
+import partner5 from "./StayRafa.png";
+import partner6 from "./nenadsky.webp";
 
 export const images = {
   bbblogo,
@@ -19,5 +22,8 @@ export const images = {
   project5,
   partner1,
   partner2,
-  partner3
+  partner3,
+  partner4,
+  partner5,
+  partner6
 };

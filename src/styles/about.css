@@ -1,0 +1,56 @@
+.about-container {
+    width: 60%;
+    margin: 40px auto;
+    text-align: left;
+    padding-top: 225px;
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+    max-width: 50%;
+  }
+  
+  h1, h2 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .team-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 30px;
+  }
+  
+  .team-table td {
+    padding: 12px;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  .team-member {
+    width: 30%;
+    font-weight: bold;
+    vertical-align: top;
+  }
+  
+  .team-bio {
+    width: 70%;
+    vertical-align: top;
+  }
+  
+  .contact-section {
+    background: rgb(185, 185, 185);;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+  }
+  
+  .contact-section p {
+    margin: 5px 0;
+  }
+  
+  .contact-section a {
+    color: #0073e6;
+    text-decoration: none;
+  }
+  
+  .contact-section a:hover {
+    text-decoration: underline;
+  }  
