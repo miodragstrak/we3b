@@ -5,6 +5,9 @@ import project2 from "./SDAI.png";
 import project3 from "./sea.png";
 import project4 from "./tesla.jpeg";
 import project5 from "./RTI.jpeg";
+import project6 from "./vidua.png";
+import project7 from "./passport.jpg";
+import project8 from "./primelab.jpeg";
 import partner1 from "./LedgerLeopard.png";
 import partner2 from "./StayDirect.png";
 import partner3 from "./UNDP.png";
@@ -20,6 +23,9 @@ export const images = {
   project3,
   project4,
   project5,
+  project6,
+  project7,
+  project8,
   partner1,
   partner2,
   partner3,

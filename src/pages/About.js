@@ -44,8 +44,8 @@ const About = () => {
         <p><strong>Block Build DOO</strong></p>
         <p><strong>Ledger Lemur PR</strong></p>
         <p>3. oktobar<br />19210 Bor<br />Serbia</p>
-        <p>Email: <a href="mailto:your-email@example.com">your-email@example.com</a></p>
-        <p><a href="https://www.linkedin.com/company/block-build-bor/" target="_blank" rel="noopener noreferrer">LinkedIn Profile Block Build</a></p>
+        <p>Email: <a href="mailto:private.2925672709@vpn.diamonds">Send email</a></p>
+        <p><a href="https://www.linkedin.com/company/blockbuild/" target="_blank" rel="noopener noreferrer">LinkedIn Profile Ledger Lemur</a></p>
         <p><a href="https://www.linkedin.com/company/lelemur/" target="_blank" rel="noopener noreferrer">LinkedIn Profile Ledger Lemur</a></p>
       </div>
     </div>
