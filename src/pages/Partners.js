@@ -9,6 +9,7 @@ const partners = [
   { id: 4, name: "ReSPA", logo: images.partner4},
   { id: 5, name: "Stay by Rafa", logo: images.partner5},
   { id: 6, name: "Nenadsky", logo: images.partner6},
+  { id: 7, name: "Smart Connection", logo: images.partner7},
   
 ];
 

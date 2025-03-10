@@ -14,6 +14,7 @@ import partner3 from "./UNDP.png";
 import partner4 from "./ReSPA.png";
 import partner5 from "./StayRafa.png";
 import partner6 from "./nenadsky.webp";
+import partner7 from "./smartconnpn.png";
 
 export const images = {
   bbblogo,
@@ -31,5 +32,6 @@ export const images = {
   partner3,
   partner4,
   partner5,
-  partner6
+  partner6,
+  partner7
 };
