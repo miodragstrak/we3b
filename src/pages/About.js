@@ -3,7 +3,7 @@ import "../styles/about.css";
 
 const teamMembers = [
   { name: "Miodrag Strak", role: "Director", bio: "Founder" },
-  { name: "Kristina Mosić", role: "Developer", bio: "Full-stack expert driving innovation." },
+  { name: "Kristina Mosić", role: "Developer", bio: "Full-Stack Developer" },
 ];
 
 const externalMembers = [
@@ -45,8 +45,8 @@ const About = () => {
         <p><strong>Ledger Lemur PR</strong></p>
         <p>3. oktobar<br />19210 Bor<br />Serbia</p>
         <p>Email: <a href="mailto:private.2925672709@vpn.diamonds">Send email</a></p>
-        <p><a href="https://www.linkedin.com/company/blockbuild/" target="_blank" rel="noopener noreferrer">LinkedIn Profile Ledger Lemur</a></p>
-        <p><a href="https://www.linkedin.com/company/lelemur/" target="_blank" rel="noopener noreferrer">LinkedIn Profile Ledger Lemur</a></p>
+        <p><a href="https://www.linkedin.com/company/blockbuild/" target="_blank" rel="noopener noreferrer">Block Build Bor</a></p>
+        <p><a href="https://www.linkedin.com/company/lelemur/" target="_blank" rel="noopener noreferrer">Ledger Lemur</a></p>
       </div>
     </div>
   );
