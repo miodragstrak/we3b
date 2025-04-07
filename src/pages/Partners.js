@@ -10,7 +10,10 @@ const partners = [
   { id: 5, name: "Stay by Rafa", logo: images.partner5},
   { id: 6, name: "Nenadsky", logo: images.partner6},
   { id: 7, name: "Smart Connection", logo: images.partner7},
-  { id: 7, name: "Prime Lab", logo: images.partner8},
+  { id: 8, name: "Prime Lab", logo: images.partner8},
+  { id: 9, name: "NBG", logo: images.partner9},
+  { id: 10, name: "Z.E.N.", logo: images.partner10},
+  { id: 11, name: "Kyramarios", logo: images.partner11},
   
 ];
 

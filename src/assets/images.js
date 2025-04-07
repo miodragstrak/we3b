@@ -16,6 +16,9 @@ import partner5 from "./StayRafa.png";
 import partner6 from "./nenadsky.webp";
 import partner7 from "./smartconnpn.png";
 import partner8 from "./primelab.png";
+import partner9 from "./NBG.png";
+import partner10 from "./zen_logo.png";
+import partner11 from "./kyramarios.png";
 
 export const images = {
   bbblogo,
@@ -35,5 +38,8 @@ export const images = {
   partner5,
   partner6,
   partner7,
-  partner8
+  partner8,
+  partner9,
+  partner10,
+  partner11
 };
