@@ -1,12 +1,13 @@
 {
   "files": {
     "main.css": "/we3b/static/css/main.5bd9d4d6.css",
-    "main.js": "/we3b/static/js/main.7bfaad10.js",
+    "main.js": "/we3b/static/js/main.a2a50656.js",
     "static/media/RTI.jpeg": "/we3b/static/media/RTI.3ae693ade179a2561d09.jpeg",
     "static/media/Nelutai.jpg": "/we3b/static/media/Nelutai.8e18faa9b99b072786fe.jpg",
     "static/media/sea.png": "/we3b/static/media/sea.015cf615e9047f3e765b.png",
     "static/media/bbblogo.png": "/we3b/static/media/bbblogo.7e4f03db687d019f3b69.png",
     "static/media/lllogo.png": "/we3b/static/media/lllogo.f845aba4777d48d6488d.png",
+    "static/media/zen_logo.png": "/we3b/static/media/zen_logo.dc4a532d39d6f00e7c37.png",
     "static/media/passport.jpg": "/we3b/static/media/passport.25bc22aa8ddcdfd2f527.jpg",
     "static/media/LedgerLeopard.png": "/we3b/static/media/LedgerLeopard.9e0c815b5ddecde2b17d.png",
     "static/media/nenadsky.webp": "/we3b/static/media/nenadsky.a8bcfe51a7aaa31d8e4c.webp",
@@ -16,10 +17,10 @@
     "static/media/UNDP.png": "/we3b/static/media/UNDP.a4bccf90be701b87424a.png",
     "index.html": "/we3b/index.html",
     "main.5bd9d4d6.css.map": "/we3b/static/css/main.5bd9d4d6.css.map",
-    "main.7bfaad10.js.map": "/we3b/static/js/main.7bfaad10.js.map"
+    "main.a2a50656.js.map": "/we3b/static/js/main.a2a50656.js.map"
   },
   "entrypoints": [
     "static/css/main.5bd9d4d6.css",
-    "static/js/main.7bfaad10.js"
+    "static/js/main.a2a50656.js"
   ]
 }
